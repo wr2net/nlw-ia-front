@@ -1,2 +1,7 @@
-# nlw-ia-front
-Vamos avançar para o próximo nível no NLW IA 🚀 #NextLevelWeek #NeverStopLearning
+# NLW IA :: Uplaod.IA
+
+
+## Start Service
+```bash
+   yarn run dev
+```
